@@ -1,5 +1,10 @@
 # pi-antigravity
 
+> [!CAUTION]
+> **Do not use this package.** On 2026-11-25 Google disabled Antigravity for the Google account this fork's maintainer used with it; every call now answers "This service has been disabled in this account for violation of Terms of Service." Google's Antigravity FAQ names reaching Antigravity through a third-party tool a Terms of Service violation, and that is what this package does. Signing in here puts the Google account you sign in with at risk.
+>
+> If you have it installed, remove it (`pi remove npm:pi-antigravity`) and revoke its OAuth grant at [myaccount.google.com/permissions](https://myaccount.google.com/permissions). This fork is no longer maintained.
+
 [![npm version](https://img.shields.io/npm/v/pi-antigravity?logo=npm)](https://www.npmjs.com/package/pi-antigravity)
 [![npm downloads](https://img.shields.io/npm/dm/pi-antigravity?logo=npm)](https://www.npmjs.com/package/pi-antigravity)
 [![license](https://img.shields.io/npm/l/pi-antigravity)](LICENSE)
